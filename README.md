@@ -32,8 +32,7 @@ The contents of the module are the following:
 Installing the *ixa-pipe-wikifydomain* requires the following steps:
 
 *If you already have installed in your machine the Java 1.7+ and MAVEN
-3, please go to [step
-3](#3-download-and-install-statistical-backend---dbpedia-spotlight)
+3, please go to [step 3](#3-get-module-source-code)
 directly. Otherwise, follow the detailed steps*
 
 ### 1. Install JDK 1.7
